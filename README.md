@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+nano README.md
 # CoreGuard
 
 CoreGuard is a lightweight FastAPI ingestion backend for endpoint monitoring and security posture reporting.
